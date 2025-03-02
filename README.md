@@ -1,18 +1,18 @@
 # Hi there 👋, I'm Lody!
 
-I'm a passionate student at [42 School](https://42.fr/en/homepage/) 🏫, where I'm diving deep into the fundamentals of **low-level programming** and **algorithmic problem solving**. Currently, I'm focused on designing an efficient sorting algorithm for the push_swap project in C, optimizing operations to sort numbers with the least moves possible.
+I'm a passionate student at [42 School](https://42.fr/en/homepage/) 🏫, where I'm diving deep into the fundamentals of **low-level programming** and **algorithmic problem solving**. Currently, I'm focused on designing a 2D GAME for the so_long project in C.
 ---
 
 ### 🛠️ Skills and Technologies
 - **Languages**: C, Shell Scripting
-- **Tools**: Git, Linux, GCC, VIM 
+- **Tools**: Git, Linux, GCC, VIM , GDB 
 - **Interests**: Arduino
 
 ---
 
 ### 🌱 What I’m Working On
-- **Current Project**: Implementing and optimizing a sorting algorithm for push_swap in C
-- **Goal**: Minimize the number of operations while sorting stacks efficiently
+- **Current Project**: Developing a 2D game for so_long project in C.
+- **Goal**: Learn how to use graphics library MinilibX and efective memory management on larger projects.
 
 ---
 
