@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Lody!
 
-I'm a passionate student at [42 School](https://42.fr/en/homepage/) 🏫, where I'm diving deep into the fundamentals of **low-level programming** and **algorithmic problem solving**. Currently, I'm focused on designing a 2D GAME for the so_long project in C.
+I'm a passionate student at [42 School](https://42.fr/en/homepage/) 🏫, where I'm diving deep into the fundamentals of **low-level programming** and **algorithmic problem solving**. Currently, exploring concurrent programming in C.
 ---
 
 ### 🛠️ Skills and Technologies
@@ -11,8 +11,8 @@ I'm a passionate student at [42 School](https://42.fr/en/homepage/) 🏫, where 
 ---
 
 ### 🌱 What I’m Working On
-- **Current Project**: Developing a 2D game for so_long project in C.
-- **Goal**: Learn how to use graphics library MinilibX and efective memory management on larger projects.
+- **Current Project**: classic Dining Philosophers problem
+- **Goal**: Learn and apply concurrent multithreaded programming in C using threads and synchronization..
 
 ---
 
